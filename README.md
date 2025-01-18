@@ -28,7 +28,7 @@ I primarily develop in Java but am eager to expand my skill set. Here are the la
 
 ## Contact
 
-Feel free to reach out to me through my GitHub profile for any collaborations or inquiries.
+Feel free to reach out to me through my GitHub profile for any issues or inquiries
 
 ---
 
