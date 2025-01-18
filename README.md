@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an intermediate Java ☕️ developer and Minecraft modder. I'm currently working on two Minecraft mods and developing a general-purpose Discord bot built from the [Java Discord API](https://github.com/discord-jda/JDA) 📦.
+I'm an intermediate Java developer and Minecraft modder. I'm currently working on two Minecraft mods and developing a general-purpose Discord bot built from the [Java Discord API](https://github.com/discord-jda/JDA) 📦.
 
 ## Projects
 
