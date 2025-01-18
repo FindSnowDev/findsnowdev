@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an intermediate Java ☕️ developer and Minecraft modder. I'm currently working on two Minecraft mods and developing a general-purpose Discord bot built from the [Java Discord API](https://github.com/Discord4J/Discord4J) 📦.
+I'm an intermediate Java ☕️ developer and Minecraft modder. I'm currently working on two Minecraft mods and developing a general-purpose Discord bot built from the [Java Discord API](https://github.com/discord-jda/JDA) 📦.
 
 ## Projects
 
@@ -14,7 +14,7 @@ I'm an intermediate Java ☕️ developer and Minecraft modder. I'm currently wo
 <div style="text-align: right;">
    <img src="https://github.com/user-attachments/assets/0f3f1139-dc94-411f-9a38-06a21fe40cb2" width="130" alt="maeve logo">
 </div>
-- She is a small all purpose bot using the JDA framework. I made this solely for my girlfriend and I, but I plan to soon expand upon this whenever I can to bring this to more servers 🤖🐈.
+- She's a small all purpose bot using the [JDA](https://github.com/discord-jda/JDA) framework. I made this solely for my girlfriend and I, but I plan to soon expand upon this whenever I can to bring this to more servers 🤖🐈.
 
 ## Skills
 
