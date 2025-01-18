@@ -14,7 +14,7 @@ I'm an intermediate Java ☕️ developer and Minecraft modder. I'm currently wo
 <div style="text-align: right;">
    <img src="https://github.com/user-attachments/assets/0f3f1139-dc94-411f-9a38-06a21fe40cb2" width="130" alt="maeve logo">
 </div>
-- She's a small all purpose bot using the JDA framework. I made this solely for my girlfriend and I, but I plan to soon expand upon this whenever I can to bring this to more servers 🤖🐈.
+- She's a small all purpose bot using the JDA framework. I made this solely for my girlfriend and I, but I plan to soon expand upon this whenever I can and bring this to more servers 🤖🐈.
 
 ## Skills
 
